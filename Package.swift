@@ -17,7 +17,7 @@ let package = Package(
         .package(url: "https://github.com/Moya/Moya.git", .upToNextMajor(from: "15.0.0")),
         .package(url: "https://github.com/tristanhimmelman/ObjectMapper.git", .upToNextMajor(from: "4.2.0")),
         .package(url: "https://github.com/ReactiveX/RxSwift.git", .upToNextMajor(from: "6.2.0")),
-        .package(url: "https://github.com/ReactiveCocoa/ReactiveSwift.git", .upToNextMajor(from: "6.7.0"))
+        .package(url: "https://github.com/ReactiveCocoa/ReactiveSwift.git", .upToNextMajor(from: "7.1.1"))
     ],
     targets: [
         
